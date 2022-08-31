@@ -1,4 +1,8 @@
-#------ 屏蔽乱广告 ------
+! Version: 20220901
+! Title: 去广告规则
+! Homepage: https://github.com/799036248/aipapa.github.io
+! by: Mr.Liu QQ：799036248
+#------ 屏蔽乱广告 -----
 
 127.0.0.1 engine.100fenlm.cn
 127.0.0.1 c.0fb00c0e57.sdo.com
