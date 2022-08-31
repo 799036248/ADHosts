@@ -6,7 +6,11 @@
 
 #------ 屏蔽乱广告 -----
 
+127.0.0.1 t2.picb.cc
+127.0.0.1 p432.ssl.qhimgs4.com
+127.0.0.1 www.p432.ssl.qhimgs4.com
 127.0.0.1 engine.100fenlm.cn
+127.0.0.1 www.p.qpic.cn
 127.0.0.1 c.0fb00c0e57.sdo.com
 127.0.0.1 cpv.1717gs.com
 127.0.0.1 vista.tgbus.com
