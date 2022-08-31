@@ -5,7 +5,6 @@
       QQ：799036248
 
 #------ 屏蔽乱广告 -----
-
 127.0.0.1 t2.picb.cc
 127.0.0.1 p432.ssl.qhimgs4.com
 127.0.0.1 www.p432.ssl.qhimgs4.com
@@ -57,35 +56,25 @@
 127.0.0.1 ptbs.sme.gov.cn
 127.0.0.1 afp.qiyi.com
 127.0.0.1 focusbaiduafp.allyes.com
-
 #------ 屏蔽360广告 ------
-
 127.0.0.1 down.360.cn
 127.0.0.1 msoftdl.360.cn
-
 #------ 屏蔽金山广告 ------
-
 127.0.0.1 dl.ijinshan.com
 127.0.0.1 cd001.www.duba.net
 127.0.0.1 dl.sj.ijinshan.com
 127.0.0.1 dl.dc.ijinshan.com
 127.0.0.1 vipzone.c.duba.net
-
 #------ 屏蔽瑞星广告 ------
-
 127.0.0.1 cnrdn.com
-
 #------ 屏蔽猎豹广告 ------
-
 127.0.0.1 wan.liebao.cn
 127.0.0.1 p.wan.liebao.cn
 127.0.0.1 www.duba.com
 127.0.0.1 wifi.liebao.cn
 127.0.0.1 dl.cm.ksmobile.com
 127.0.0.1 dl.cm.ksmobile.com
-
 #------ 屏蔽腾讯广告 ------
-
 127.0.0.1 adsrich.qq.com
 127.0.0.1 adsqqclick.qq.com
 127.0.0.1 fodder.qq.com 
@@ -122,27 +111,19 @@
 127.0.0.1 toolbar.soso.com
 127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dl_dir.qq.com 
-
 #------ 屏蔽QQ游戏大厅广告------
-
 127.0.0.1 ra.gtimg.com
-
 #------ 屏蔽QQ音乐广告------
-
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 img11.360buyimg.com
 127.0.0.1 static.360buyimg.com
 127.0.0.1 ccc.x.jd.com
-
 #------ 屏蔽QQ空间广告------
-
 127.0.0.1  pgdt.gtimg.cn
 127.0.0.1  i.gdt.qq.com
-
 #------ 屏蔽百度广告 ------
-
 127.0.0.1 a.baidu.com
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 bar.baidu.com
@@ -177,9 +158,7 @@
 127.0.0.1 weishi.baidu.com
 127.0.0.1 j.br.baidu.com
 127.0.0.1 dl1sw.baidu.com
-
 #------ 屏蔽风行广告 ------
-
 127.0.0.1 ad.funshion.com
 127.0.0.1 adm.funshion.com
 127.0.0.1 vas.funshion.com
@@ -193,9 +172,7 @@
 127.0.0.1 q.funshion.com
 127.0.0.1 jobsfe.funshion.com
 127.0.0.1 neirong.funshion.com
-
 #------ 屏蔽淘宝广告 ------
-
 127.0.0.1 img.alimama.cn
 127.0.0.1 z.alimama.com
 127.0.0.1 redirect.simba.taobao.com
@@ -208,9 +185,7 @@
 127.0.0.1 ssp.tanx.com
 127.0.0.1 openssp.tanx.com
 127.0.0.1 click.tanx.com
-
 #------ 屏蔽酷六广告 ------
- 
 127.0.0.1 v2.stat.ku6.com
 127.0.0.1 v3.stat.ku6.com
 127.0.0.1 v0.stat.ku6.com
@@ -218,9 +193,7 @@
 127.0.0.1 st.vq.ku6.cn
 127.0.0.1 stat2.888.ku6.com
 127.0.0.1 pq.stat.ku6.com
-
 #------ 屏蔽google广告 ------
-
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 *.googleadsserving.cn
 127.0.0.1 static.googleadsserving.cn
@@ -228,23 +201,17 @@
 127.0.0.1 doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 server1.adpolestar.net
-
 #------ 屏蔽56广告 ------
-
 127.0.0.1 acs.56.com
 127.0.0.1 acs.agent.56.com
 127.0.0.1 bill.agent.56.com
 127.0.0.1 union.56.com
 127.0.0.1 v16.56.com
-
 #------ 屏蔽6间房广告 ------
-
 127.0.0.1 simba.6.cn
 127.0.0.1 pole.6rooms.com
 127.0.0.1 shrek.6.cn
-
 #------ 屏蔽优酷广告 ------
-
 127.0.0.1 static.atm.youku.com
 127.0.0.1 atm.youku.com
 127.0.0.1 Fvid.atm.youku.com
@@ -327,22 +294,16 @@
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valt.atm.youku.com
 127.0.0.1 fvid.atm.youku.com
-
 #------ 屏蔽搜狐广告 ------
-
 127.0.0.1 images.sohu.com
-
 #------ 屏蔽土豆广告 ------
-
 127.0.0.1 adextensioncontrol.tudou.com
 127.0.0.1 adplay.tudou.com
 127.0.0.1 iwstat.tudou.com
 127.0.0.1 nstat.tudou.com
 127.0.0.1 stat.tudou.com
 127.0.0.1 stats.tudou.com
-
 #------ 屏蔽cntv广告 ------
-
 127.0.0.1 a.cctv.com
 127.0.0.1 a.cntv.cn
 127.0.0.1 ad.cctv.com
@@ -350,16 +311,12 @@
 127.0.0.1 adguanggao.eee114.com
 127.0.0.1 cctv.adsunion.com
 127.0.0.1 ws.cbox.cntv.cn
-
 #------ 屏蔽酷我广告 ------
-
 127.0.0.1 g.koowo.com
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 game.kuwo.cn
 127.0.0.1 userclient.kuwo.cn
-
 #------ 屏蔽腾讯视频广告 ------
-
 127.0.0.1 adsclick.qq.com
 127.0.0.1 adslvfile.qq.com
 127.0.0.1 adsfile.qq.com
@@ -507,48 +464,36 @@
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
-
 #------ 屏蔽迅雷广告 ------
-
 127.0.0.1 niu.xunlei.com
 127.0.0.1 i1.webgame.kanimg.com
 127.0.0.1 v2.boxpage.niu.xunlei.com
 127.0.0.1 shop.xunlei.com 
 127.0.0.1 xmp.down.sandai.net
 127.0.0.1 m.down.sandai.net
-
 #------ 屏蔽37玩广告 ------
-
 127.0.0.1 www.37.com
 127.0.0.1 img.twcczhu.com
 127.0.0.1 twcczhu.com
-
 #------ 屏蔽麒润广告 ------
-
 127.0.0.1 pic8.onetad.com
 127.0.0.1 code12.onetad.com
 127.0.0.1 onetad.com
 127.0.0.1 ww202.onetad.com
 127.0.0.1 www.keyrun.cn
 127.0.0.1 c1.keyrun.cn
-
 #------ 屏蔽易特广告 ------
-
 127.0.0.1 u592022.778669.com
 127.0.0.1 pic837013.images9999.com
 127.0.0.1 etmall.r.haizhangs.com
-
 #------ 屏蔽七七广告联盟 ------
-
 127.0.0.1 www.kk7kk.com
 127.0.0.1 img.kk7kk.com
 127.0.0.1 www.52kkt.com
 127.0.0.1 www.7794.com
 127.0.0.1 www.77power.com
 127.0.0.1 j.77power.com
-
 #------ 屏蔽芒果TV广告 ------
-
 127.0.0.1 static.acs86.com
 127.0.0.1 res.hunantv.com
 127.0.0.1 res.mgtv.com
@@ -594,23 +539,15 @@
 127.0.0.1 v2.res.log.hunantv.com
 127.0.0.1 x1.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
-
 #------ 屏蔽E语言广告------
-
 127.0.0.1 e.vg3d.com
-
 #------ 屏蔽搜狗推广广告------
-
 127.0.0.1 inte.sogou.com
-
 #------ 屏蔽迅雷BT阻拦------
-
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
 127.0.0.1 upgrade.xl9.xunlei.com
-
 #------ 屏蔽爱奇异广告------
-
 127.0.0.1 sns-api.iqiyi.com
 127.0.0.1 msg.71.am
 127.0.0.1 71.am
@@ -653,10 +590,7 @@
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 www.iqiyi.space
 127.0.0.1 focusbaiduafp.allyes.com
-
 #------ Adobe Flash Player解除限制------
-
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
 127.0.0.1 geo2.adobe.com
-
