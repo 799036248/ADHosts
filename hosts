@@ -1,11 +1,16 @@
 ! Version: 2022.12.10
 ! Title: 去广告规则
 ! Homepage: https://github.com/799036248/ADHosts
+#七猫小说误拦截
 @@||api-cmnt.wtzw.com^$important
+#爱奇艺
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
+#Gitv
 127.0.0.1 video.market.xiaomi.com
 127.0.0.1 sv-video.play.aiseet.atianqi.com
+#芒果TV
 127.0.0.1 mobaliyun.res.mgtv.com
+#CIBN酷喵
 127.0.0.1 pl2.cp31.ott.cibntv.net
 127.0.0.1 vali-ugc.cp31.ott.cibntv.net
 127.0.0.1 xpgw-xcdn.cp31.ott.cibntv.net
