@@ -5212,7 +5212,6 @@ book.qidian.com##A.jumpWrap,DIV.crumbs-nav,DIV.left-game,DIV.games-op-wrap,DIV.r
 ||img.gsspat.jp/e^$domain=adultdouga-db.com
 ||edu-yuedu.bdimg.com/v1/aiting^$app=com.baidu.yuedu
 ||*.feipukeplus.com^$domain=m.qqm4.com
-||puui.qpic.cn/vcolumn_pic/0/logo_qing_xi_color_336_108.png/0$app=com.tencent.qqlive
 ||au.w.inmobi.cn/c.asm^$app=com.baidu.yuedu
 ||appwk.baidu.com/naapi/push^$app=com.baidu.yuedu
 ||appwk.baidu.com/xpage/interface/ydad?$app=com.baidu.yuedu
@@ -15584,7 +15583,6 @@ $$div[class="ad_top"]
 0.0.0.0 livep.l.t002.ottcn.com
 0.0.0.0 mtrace.play.t002.ottcn.com
 0.0.0.0 ocsp.int-x3.letsencrypt.org
-0.0.0.0 puui.qpic.cn
 0.0.0.0 rpc-tc.skysrt.com
 0.0.0.0 rpt-gdt.play.t002.ottcn.com
 0.0.0.0 sdk1xyajs.data.p2cdn.com
